@@ -88,7 +88,7 @@ Para pedir seu acesso ao servidor do Megafono, caso ainda não tenha, você pode
 - [ ] Ferramentas (links, motivação)
 - [ ] Top 5 usos
 
-## Como nos comunicamos?
+## Como nos comunicamos com o publico?
 
 - [ ] Racional
 - [ ] Ferramentas (links, motivação)
