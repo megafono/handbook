@@ -26,27 +26,28 @@ Isso é o que  queremos dizer quando afirmamos que o marketing é responsabilida
 
 - [ ] Racional
 
-O suporte é um dos pontos mais importante do Megafono, ele é um dos pontos de comunicação com o cliente. Por diversas vezes nosso suporte esteve bem a quem do que gostaríamos, por isso queremos que **todos do Megafono tenha a experiência de conversar com os nossos clientes**.
+  O suporte é um dos pontos mais importante do Megafono, ele é um dos pontos de comunicação com o cliente. Por diversas vezes nosso suporte esteve bem a quem do que gostaríamos, por isso queremos que **todos do Megafono tenha a experiência de conversar com os nossos clientes**.
+
+  
+
 
 - [ ] Ferramentas (links, motivação)
+
 
 ### Zammad
 
 URL:  https://support.megafono.host
 
-TODO
 
 ### Manager 
 
 URL:  https://megafono.host/manager
 
-TODO
 
 ### Comunidade
 
 URL:  https://podosfera.org
 
-TODO
 
 - [ ] Top 5 usos
 
@@ -98,7 +99,7 @@ O Discord também funciona como um ótimo mensageiro instantâneo quando necess�
 
 Para pedir seu acesso ao servidor do Megafono, caso ainda não tenha, você pode entrar em contanto com *admin@megafono.host*, solicitando o acesso.
 
-## Como extraímos dados e informações dos clientes?
+## Como extraímos dados e informações?
 
 Boa parte das empresas hoje se dizem data driven, ou seja, colocam os dados no centro da tomada de decisão.
 
@@ -109,7 +110,6 @@ Com o advento do data driven muitas coisas evoluíram no mundo dos negócios em 
 Acreditamos que de forma empírica podemos agregar muito mais valor aos dados, por isso a  sua imersão no que fazemos é muito mais importante do que ter uma leitura corretas de linhas e barras em um gráfico. **Valorizamos idéias intuitivas que muitas vezes não conseguimos ver diretamente dados, acreditamos que são delas que saem coisas criativas**.
 
 - [ ] Ferramentas (links, motivação)
-
 ### Metabase
 
 URL: [data.megafono.host](https://data.megafono.host)
