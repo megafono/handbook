@@ -25,7 +25,29 @@ Isso é o que  queremos dizer quando afirmamos que o marketing é responsabilida
 ## Como atendemos no suporte?
 
 - [ ] Racional
+
+O suporte é um dos pontos mais importante do Megafono, ele é um dos pontos de comunicação com o cliente. Por diversas vezes nosso suporte esteve bem a quem do que gostaríamos, por isso queremos que **todos do Megafono tenha a experiência de conversar com os nossos clientes**.
+
 - [ ] Ferramentas (links, motivação)
+
+### Zammad
+
+URL:  https://support.megafono.host
+
+TODO
+
+### Manager 
+
+URL:  https://megafono.host/manager
+
+TODO
+
+### Comunidade
+
+URL:  https://podosfera.org
+
+TODO
+
 - [ ] Top 5 usos
 
 
@@ -78,9 +100,35 @@ Para pedir seu acesso ao servidor do Megafono, caso ainda não tenha, você pode
 
 ## Como extraímos dados e informações dos clientes?
 
-- [ ] Racional
+Boa parte das empresas hoje se dizem data driven, ou seja, colocam os dados no centro da tomada de decisão.
+
+> Data driven é um adjetivo que qualifica processos orientados por  dados, ou seja, embasados na coleta e análise de informações. No mundo  dos negócios, significa colocar os dados no centro da tomada de decisão e do planejamento estratégico, buscando fontes confiáveis ao invés de  gerir a empresa por intuição.
+
+Com o advento do data driven muitas coisas evoluíram no mundo dos negócios em relação a dados,, ferramentas para coletar, armazenar e analisar os dados são grandes exemplos, apesar disso, muitas empresas estão usando dados ruins para justificar seus movimentos, o que no médio/longo prazo tendem a se mostrar pior ou igual do que fazer qualquer movimento, a diferença é que com a muleta do "data driven" essas empresas se dizem apreendendo, quando estão apenas falhando mesmo.  
+
+Acreditamos que de forma empírica podemos agregar muito mais valor aos dados, por isso a  sua imersão no que fazemos é muito mais importante do que ter uma leitura corretas de linhas e barras em um gráfico. **Valorizamos idéias intuitivas que muitas vezes não conseguimos ver diretamente dados, acreditamos que são delas que saem coisas criativas**.
+
 - [ ] Ferramentas (links, motivação)
-- [ ] Top 5 usos
+
+### Metabase
+
+URL: [data.megafono.host](https://data.megafono.host)
+
+TODO
+
+#### Finance
+
+TODO
+
+#### Customer
+
+TODO
+
+#### Scalability
+
+TODO
+
+
 
 ## Como usamos o banco?
 
