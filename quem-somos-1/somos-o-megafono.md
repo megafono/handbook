@@ -32,15 +32,3 @@ Sócia do Megafono, responsável pela área de Clientes do Megafono, gerenciando
 
 Responsável pela área Financeira do Megafono, cuida da contabilidade, da rentabilidade e dos investimentos da empresa, ele também é responsável pelas contas empresarias do Megafono.
 
-
-
-
-
-
-
-\*\*\*\*
-
-\*\*\*\*
-
-Nossa missão é ajudar produtores de podcast na entrega do seu conteúdo.
-
