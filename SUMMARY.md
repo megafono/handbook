@@ -22,7 +22,6 @@
 ## Tecnology
 
 * [Nossos sistemas internos](tecnology/nossos-sistemas-internos.md)
-* [Untitled](tecnology/untitled.md)
 
 ## Data
 

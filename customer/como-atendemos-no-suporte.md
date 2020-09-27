@@ -1,12 +1,6 @@
 # Como atendemos no suporte?
 
-
-
-* [ ] Racional
-
-  O suporte é um dos pontos mais importante do Megafono, ele é um dos pontos de comunicação com o cliente. Por diversas vezes nosso suporte esteve bem a quem do que gostaríamos, por isso queremos que **todos do Megafono tenha a experiência de conversar com os nossos clientes**.
-
-* [ ] Ferramentas \(links, motivação\)
+O suporte é um dos pontos mais importante do Megafono, ele é um dos pontos de comunicação com o cliente. Por diversas vezes nosso suporte esteve bem a quem do que gostaríamos, por isso queremos que **todos do Megafono tenha a experiência de conversar com os nossos clientes**.
 
 ### Zammad
 
