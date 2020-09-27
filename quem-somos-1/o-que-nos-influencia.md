@@ -1,0 +1,2 @@
+# O que nos influência?
+
