@@ -16,6 +16,28 @@ O Megafono cuida de tudo que é necessário para um podcast estar no ar, coisas 
 
 Algo que é muito importante para nós é a transparência, por isso desde o primeiro dia, caso o produtor resolver mudar de plataforma, **não queremos ‘sequestrar’ seus ouvintes: com apenas 2 cliques o produtor pode indicar sua intenção de mudança** e redirecionamos seus ouvintes para seu novo endereço.
 
+## Equipe
+
+Conheça um pouco das nossas lideranças.
+
+### Emerson Almeida
+
+Fundador e CEO do Megafono, responsável também pelas áreas de Estratégia, Tecnologia, Dados e Escalabilidade do Megafono, gerenciando as plataformas tecnológicas e de infla-estrutura, bem como as parcerias, é também nosso especialista em Podcast.
+
+### Quézia Cardoso
+
+Sócia do Megafono, responsável pela área de Clientes do Megafono, gerenciando o suporte, marketing e da comunidade.
+
+### Jefferson Moreira
+
+Responsável pela área Financeira do Megafono, cuida da contabilidade, da rentabilidade e dos investimentos da empresa.
+
+### Você
+
+Gostaria de fazer parte do Megafono? Mande e-mail para jobs@megafono.host nos contando um pouco sobre você e como você poderia nos ajudar e criar uma empresa ainda melhor
+
+
+
 
 
 
