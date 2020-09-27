@@ -32,10 +32,6 @@ Sócia do Megafono, responsável pela área de Clientes do Megafono, gerenciando
 
 Responsável pela área Financeira do Megafono, cuida da contabilidade, da rentabilidade e dos investimentos da empresa.
 
-### Você
-
-Gostaria de fazer parte do Megafono? Mande e-mail para jobs@megafono.host nos contando um pouco sobre você e como você poderia nos ajudar e criar uma empresa ainda melhor
-
 
 
 
