@@ -1,4 +1,4 @@
-# Megafono Employee Handbook
+# Seja bem-vindo
 
 O handbook do Megafono é fortemente inspirado no [Basecamp Employee Handbok](https://github.com/basecamp/handbook), qualquer semelhança não é mera coincidência.
 

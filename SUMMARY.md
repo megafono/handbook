@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Megafono Employee Handbook](README.md)
+* [Seja bem-vindo](README.md)
 * [Quem somos?](quem-somos.md)
 * [O que nos influência](o-que-nos-influencia.md)
 * [Vocabulário](vocabulario/README.md)
