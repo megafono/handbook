@@ -16,6 +16,18 @@ O Megafono cuida de tudo que é necessário para um podcast estar no ar, coisas 
 
 A transparência é algo muito importante para nós, por isso desde o primeiro dia, caso o produtor resolver mudar de plataforma, **não queremos ‘sequestrar’ seus ouvintes: com apenas 2 cliques o produtor pode indicar sua intenção de mudança** e redirecionamos seus ouvintes para seu novo endereço.
 
+## Formalmente falando
+
+**Razão Social**: Megafono Serviços de Hospedagem na Internet LTDA
+
+**CNPJ**: 35.135.533/0001-65
+
+**Regime tributário**: Simples
+
+**Inscrição Municipal**: 64189163
+
+**Endereço**: Av. Paulista 171, 4º andar - CEP 01311-000 - Bela Vista São Paulo SP
+
 ## Equipe
 
 Conheça um pouco das nossas lideranças.

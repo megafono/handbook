@@ -12,7 +12,7 @@ Nó do Megafono acreditamos que de **forma empírica podemos agregar muito mais 
 
 ## **Metabase**
 
-URL: [data.megafono.host](https://data.megafono.host)
+**URL**: [data.megafono.host](https://data.megafono.host)
 
 Utilizamos o metabase como nossa ferramenta interna de compartilhamento e análise de dados. O metabase é bem simples e está bem organizado.
 
