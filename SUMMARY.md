@@ -19,6 +19,7 @@
 
 * [Contabilidade](finance/contabilidade/README.md)
   * [Como gerar notas fiscais?](finance/contabilidade/como-gerar-notas-fiscais.md)
+  * [Como pagar os impostos?](finance/contabilidade/como-pagar-os-impostos.md)
 * [Banco](finance/banco.md)
 
 ## Scalability

@@ -8,9 +8,9 @@ Esses dados será necessário para preencher os campos na hora de gerar as notas
 
 **Contabilizei**
 
-O contabilizei é a ferramenta de contabilidade que usamos para gerar as notas fiscais.
+O contabilizei é a ferramenta de contabilidade que usamos para gerar as notas fiscais e gerar as guias de impostos.
 
-### Passo a Passo Emissão
+### Passo a passo
 
 1. Entre no Contabilizei
 2. Entre no menu "Notas Fiscais &gt; Emitir NFs-e" 
