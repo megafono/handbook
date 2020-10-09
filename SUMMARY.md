@@ -17,14 +17,15 @@
 
 ## Finance
 
-* [Contabilidade](finance/contabilidade.md)
+* [Contabilidade](finance/contabilidade/README.md)
+  * [Como gerar notas fiscais?](finance/contabilidade/como-gerar-notas-fiscais.md)
 * [Banco](finance/banco.md)
 
 ## Scalability
 
 ## Tecnology
 
-* [Nossos sistemas internos](tecnology/nossos-sistemas-internos.md)
+* [Nossas ferramentas](tecnology/nossas-ferramentas.md)
 
 ## Data
 
